@@ -1,6 +1,6 @@
 ![pothole](https://media1.tenor.com/images/824941b982135601c3f496e1caeec2ba/tenor.gif?itemid=14445555)
 
-# _**Pot-Hole-Detection-on-the-roads-using-Transfer-Learning-Resnet-50**_
+# _**Pot Hole Detection on the roads using Transfer Learning Resnet50**_
 As we all know how pot holes play a role in causing most of the minor and some major accidents actors the globe, having potholes on the roads are very dangerous in any climate, since it can cause a very serious damage to vehicle’s and even the drivers which can make the vehicle fall apart and causing serious injuries. So, here is a project which allows us to solve the problem of avoiding potholes where the model which we have generated using transfer learning i.e., Resnet50 is used to detect whether there are any pot holes or not on the roads, this model can be integrated with autopilot vehicle modes which allows the vehicle to avoid potholes.
 
 # _**Base Paper**_
