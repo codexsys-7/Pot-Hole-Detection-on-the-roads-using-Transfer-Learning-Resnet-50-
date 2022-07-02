@@ -1,0 +1,14 @@
+sklearn
+tensorflow
+Keras
+numpy
+pandas
+matplotlib
+seaborn
+PIL
+zipfile
+tqdm
+opencv-python
+warnings
+random
+os
